@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/Wise-coin/static/js/main.5f3e49e3.js",
+    "static/media/cryp.png": "/Wise-coin/static/media/cryp.289a05a34a8327fad614.png",
+    "index.html": "/Wise-coin/index.html",
+    "main.5f3e49e3.js.map": "/Wise-coin/static/js/main.5f3e49e3.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5f3e49e3.js"
+  ]
+}
