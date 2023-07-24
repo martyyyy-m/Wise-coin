@@ -20,9 +20,8 @@ const Footer = () => {
             letterSpacing={"widest"}
             textAlign={["center", "left"]}
           >
-            Martin,{"\n"}
-            Rohit
-            & Mayank
+            Martin{"\n"}
+            
           </Text>
         </VStack>
 
